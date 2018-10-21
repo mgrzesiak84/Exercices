@@ -1,0 +1,5 @@
+E:\Private\PROJEKT\Zadania\Factorial\bin\Debug\Factorial.exe.config
+E:\Private\PROJEKT\Zadania\Factorial\bin\Debug\Factorial.exe
+E:\Private\PROJEKT\Zadania\Factorial\bin\Debug\Factorial.pdb
+E:\Private\PROJEKT\Zadania\Factorial\obj\Debug\Factorial.exe
+E:\Private\PROJEKT\Zadania\Factorial\obj\Debug\Factorial.pdb

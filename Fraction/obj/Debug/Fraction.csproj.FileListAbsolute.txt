@@ -1,0 +1,6 @@
+E:\Private\PROJEKT\Zadania\Fraction\bin\Debug\Fraction.exe.config
+E:\Private\PROJEKT\Zadania\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+E:\Private\PROJEKT\Zadania\Fraction\bin\Debug\Fraction.exe
+E:\Private\PROJEKT\Zadania\Fraction\bin\Debug\Fraction.pdb
+E:\Private\PROJEKT\Zadania\Fraction\obj\Debug\Fraction.exe
+E:\Private\PROJEKT\Zadania\Fraction\obj\Debug\Fraction.pdb

@@ -1,0 +1,6 @@
+E:\Private\PROJEKT\Zadania\IsPrimeNumber\bin\Debug\IsPrimeNumber.exe.config
+E:\Private\PROJEKT\Zadania\IsPrimeNumber\bin\Debug\IsPrimeNumber.exe
+E:\Private\PROJEKT\Zadania\IsPrimeNumber\bin\Debug\IsPrimeNumber.pdb
+E:\Private\PROJEKT\Zadania\IsPrimeNumber\obj\Debug\IsPrimeNumber.exe
+E:\Private\PROJEKT\Zadania\IsPrimeNumber\obj\Debug\IsPrimeNumber.pdb
+E:\Private\PROJEKT\Zadania\IsPrimeNumber\obj\Debug\IsPrimeNumber.csprojResolveAssemblyReference.cache

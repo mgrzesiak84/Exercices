@@ -1,0 +1,6 @@
+E:\Private\PROJEKT\Zadania\TheBiggestDivider\bin\Debug\TheBiggestDivider.exe.config
+E:\Private\PROJEKT\Zadania\TheBiggestDivider\bin\Debug\TheBiggestDivider.exe
+E:\Private\PROJEKT\Zadania\TheBiggestDivider\bin\Debug\TheBiggestDivider.pdb
+E:\Private\PROJEKT\Zadania\TheBiggestDivider\obj\Debug\TheBiggestDivider.csprojResolveAssemblyReference.cache
+E:\Private\PROJEKT\Zadania\TheBiggestDivider\obj\Debug\TheBiggestDivider.exe
+E:\Private\PROJEKT\Zadania\TheBiggestDivider\obj\Debug\TheBiggestDivider.pdb

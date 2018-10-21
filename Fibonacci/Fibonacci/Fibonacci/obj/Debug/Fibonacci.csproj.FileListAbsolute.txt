@@ -1,0 +1,5 @@
+E:\Private\PROJEKT\Zadania\Fibonacci\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+E:\Private\PROJEKT\Zadania\Fibonacci\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+E:\Private\PROJEKT\Zadania\Fibonacci\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+E:\Private\PROJEKT\Zadania\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+E:\Private\PROJEKT\Zadania\Fibonacci\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

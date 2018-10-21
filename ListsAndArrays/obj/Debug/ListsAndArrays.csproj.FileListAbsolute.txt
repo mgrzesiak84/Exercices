@@ -1,0 +1,6 @@
+E:\Private\PROJEKT\Zadania\ListsAndArrays\bin\Debug\ListsAndArrays.exe.config
+E:\Private\PROJEKT\Zadania\ListsAndArrays\bin\Debug\ListsAndArrays.exe
+E:\Private\PROJEKT\Zadania\ListsAndArrays\bin\Debug\ListsAndArrays.pdb
+E:\Private\PROJEKT\Zadania\ListsAndArrays\obj\Debug\ListsAndArrays.csprojResolveAssemblyReference.cache
+E:\Private\PROJEKT\Zadania\ListsAndArrays\obj\Debug\ListsAndArrays.exe
+E:\Private\PROJEKT\Zadania\ListsAndArrays\obj\Debug\ListsAndArrays.pdb

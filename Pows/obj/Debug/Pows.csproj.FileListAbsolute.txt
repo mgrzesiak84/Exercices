@@ -1,0 +1,5 @@
+E:\Private\PROJEKT\Zadania\Pows\bin\Debug\Pows.exe.config
+E:\Private\PROJEKT\Zadania\Pows\bin\Debug\Pows.exe
+E:\Private\PROJEKT\Zadania\Pows\bin\Debug\Pows.pdb
+E:\Private\PROJEKT\Zadania\Pows\obj\Debug\Pows.exe
+E:\Private\PROJEKT\Zadania\Pows\obj\Debug\Pows.pdb

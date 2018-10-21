@@ -1,0 +1,6 @@
+E:\Private\PROJEKT\Zadania\SumOfIntegers\bin\Debug\SumOfIntegers.exe.config
+E:\Private\PROJEKT\Zadania\SumOfIntegers\bin\Debug\SumOfIntegers.exe
+E:\Private\PROJEKT\Zadania\SumOfIntegers\bin\Debug\SumOfIntegers.pdb
+E:\Private\PROJEKT\Zadania\SumOfIntegers\obj\Debug\SumOfIntegers.exe
+E:\Private\PROJEKT\Zadania\SumOfIntegers\obj\Debug\SumOfIntegers.pdb
+E:\Private\PROJEKT\Zadania\SumOfIntegers\obj\Debug\SumOfIntegers.csprojResolveAssemblyReference.cache

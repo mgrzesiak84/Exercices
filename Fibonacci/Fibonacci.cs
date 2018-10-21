@@ -8,7 +8,7 @@ namespace Fibonacci
         {
             int number;
 
-            Console.Write("Which Fibonacci number you want to obtain : ");
+            Console.Write("Which Fibonacci number do you want to obtain : ");
 
             var result = int.TryParse(Console.ReadLine(), out number);
 
